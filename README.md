@@ -9,4 +9,5 @@ Acessando console do Keycloak: http://localhost:8080/admin
 
 Variáveis usadas:
 JWT_ISSUER=${localhost:port}/realms/${realm-name}
+
 JWT_JWK_SET=${localhost:port}/realms/${realm-name}/protocol/openid-connect/certs
